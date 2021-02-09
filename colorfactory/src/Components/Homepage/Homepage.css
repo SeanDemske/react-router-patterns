@@ -1,0 +1,25 @@
+
+.Homepage header {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    padding-bottom: 5rem;
+}
+
+.Homepage header a {
+    color: white;
+    font-size: 2rem;
+}
+
+.ColorSelectionContainer {
+    font-size: 2rem;
+}
+
+.ColorSelectionContainer a {
+    color: black;
+}
+
+.ColorSelectionContainer ul {
+    list-style: none;
+    padding: 0;
+}

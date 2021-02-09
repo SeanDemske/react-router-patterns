@@ -1,0 +1,13 @@
+.Color {
+    height: 100%;
+    font-size: 5rem;
+    color: white;
+}
+
+.Color p {
+    margin: 0;
+}
+
+.Color a {
+    color: #fff;
+}
